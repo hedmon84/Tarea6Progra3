@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Examen2Dragon_master.dir/Evaluador.cpp.o CMakeFiles/Examen2Dragon_master.dir/main.cpp.o CMakeFiles/Examen2Dragon_master.dir/NodoNario.cpp.o CMakeFiles/Examen2Dragon_master.dir/Pais.cpp.o  -o Examen2Dragon_master 

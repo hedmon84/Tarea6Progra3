@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Evaluador.cpp
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Evaluador.h
+
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Evaluador.h
+Pais.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Pais.h
+NodoNario.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/NodoNario.h
+iostream
+-
+stack
+-
+queue
+-
+set
+-
+map
+-
+list
+-
+
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/NodoNario.cpp
+NodoNario.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/NodoNario.h
+
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/NodoNario.h
+vector
+-
+
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Pais.cpp
+Pais.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Pais.h
+
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Pais.h
+iostream
+-
+
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/main.cpp
+iostream
+-
+list
+-
+fstream
+-
+stack
+-
+queue
+-
+set
+-
+map
+-
+Pais.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Pais.h
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/Evaluador.h
+NodoNario.h
+/Users/Beto/Google Drive/Code/C++/Examen2Dragon-master/NodoNario.h
+

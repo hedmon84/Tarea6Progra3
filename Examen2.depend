@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1427338473 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/Evaluador.cpp
+	"Evaluador.h"
+
+1427337245 /home/turupawn/Projects/Clases/OrgaTarea1-master/Evaluador.h
+	"Planeta.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1427245617 /home/turupawn/Projects/Clases/OrgaTarea1-master/Planeta.h
+	<string>
+	<iostream>
+
+1427324401 /home/turupawn/Projects/Clases/OrgaTarea1-master/NodoBinario.h
+	<iostream>
+
+1427245080 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/Libro.cpp
+	"Libro.h"
+
+1427245309 /home/turupawn/Projects/Clases/OrgaTarea1-master/Libro.h
+	<string>
+	<iostream>
+
+1427324359 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/NodoBinario.cpp
+	"NodoBinario.h"
+
+1427245654 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/Planeta.cpp
+	"Planeta.h"
+
+1427338530 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Planeta.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1434956965 source:/home/turupawn/Downloads/2015Examen2-master/Evaluador.cpp
+	"Evaluador.h"
+
+1434956415 /home/turupawn/Downloads/2015Examen2-master/Evaluador.h
+	"Celular.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1427390653 /home/turupawn/Downloads/2015Examen2-master/Planeta.h
+	<string>
+	<iostream>
+
+1434955006 /home/turupawn/Downloads/2015Examen2-master/NodoBinario.h
+	<iostream>
+
+1434955006 source:/home/turupawn/Downloads/2015Examen2-master/NodoBinario.cpp
+	"NodoBinario.h"
+
+1427390653 source:/home/turupawn/Downloads/2015Examen2-master/Planeta.cpp
+	"Planeta.h"
+
+1434993884 source:/home/turupawn/Downloads/2015Examen2-master/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Celular.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1434951774 source:/home/turupawn/Downloads/2015Examen2-master/Celular.cpp
+	"Celular.h"
+
+1434951898 /home/turupawn/Downloads/2015Examen2-master/Celular.h
+	<iostream>
+
+1434951774 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/Celular.cpp
+	"Celular.h"
+
+1434951898 /home/turupawn/Clases/Progra3/Examen2Tiburon/Celular.h
+	<iostream>
+
+1434994643 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/Evaluador.cpp
+	"Evaluador.h"
+
+1434956415 /home/turupawn/Clases/Progra3/Examen2Tiburon/Evaluador.h
+	"Celular.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1434955006 /home/turupawn/Clases/Progra3/Examen2Tiburon/NodoBinario.h
+	<iostream>
+
+1434955006 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/NodoBinario.cpp
+	"NodoBinario.h"
+
+1435009806 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Celular.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1435011132 source:/home/turupawn/armadillo/Examen2Tiburon-master/Celular.cpp
+	"Celular.h"
+
+1435011132 /home/turupawn/armadillo/Examen2Tiburon-master/Celular.h
+	<iostream>
+
+1443065041 source:/home/turupawn/armadillo/Examen2Tiburon-master/Evaluador.cpp
+	"Evaluador.h"
+
+1443065031 /home/turupawn/armadillo/Examen2Tiburon-master/Evaluador.h
+	"Gato.h"
+	"NodoTrinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1435011132 /home/turupawn/armadillo/Examen2Tiburon-master/NodoBinario.h
+	<iostream>
+
+1435011132 source:/home/turupawn/armadillo/Examen2Tiburon-master/NodoBinario.cpp
+	"NodoBinario.h"
+
+1443065256 source:/home/turupawn/armadillo/Examen2Tiburon-master/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Gato.h"
+	"Evaluador.h"
+	"NodoTrinario.h"
+
+1443050442 source:/home/turupawn/armadillo/Examen2Tiburon-master/Gato.cpp
+	"Gato.h"
+
+1443050470 /home/turupawn/armadillo/Examen2Tiburon-master/Gato.h
+	<iostream>
+
+1443061319 source:/home/turupawn/armadillo/Examen2Tiburon-master/NodoTrinario.cpp
+	"NodoTrinario.h"
+
+1443059997 /home/turupawn/armadillo/Examen2Tiburon-master/NodoTrinario.h
+
+1450133661 source:/home/turupawn/Downloads/Examen2Armadillo-master/Evaluador.cpp
+	"Evaluador.h"
+
+1450133636 /home/turupawn/Downloads/Examen2Armadillo-master/Evaluador.h
+	"Pista.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1443111377 /home/turupawn/Downloads/Examen2Armadillo-master/Gato.h
+	<iostream>
+
+1443111377 /home/turupawn/Downloads/Examen2Armadillo-master/NodoTrinario.h
+
+1443111377 source:/home/turupawn/Downloads/Examen2Armadillo-master/Gato.cpp
+	"Gato.h"
+
+1443111377 source:/home/turupawn/Downloads/Examen2Armadillo-master/NodoTrinario.cpp
+	"NodoTrinario.h"
+
+1450118360 /home/turupawn/Downloads/Examen2Armadillo-master/Pista.h
+	<iostream>
+
+1450118390 source:/home/turupawn/Downloads/Examen2Armadillo-master/Pista.cpp
+	"Pista.h"
+
+1450133765 source:/home/turupawn/Downloads/Examen2Armadillo-master/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Pista.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1450132580 /home/turupawn/Downloads/Examen2Armadillo-master/NodoBinario.h
+	<iostream>
+
+1450132565 source:/home/turupawn/Downloads/Examen2Armadillo-master/NodoBinario.cpp
+	"NodoBinario.h"
+
+1450138781 source:/home/turupawn/Downloads/Examen2Capybara/Evaluador.cpp
+	"Evaluador.h"
+
+1450133636 /home/turupawn/Downloads/Examen2Capybara/Evaluador.h
+	"Pista.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1450118360 /home/turupawn/Downloads/Examen2Capybara/Pista.h
+	<iostream>
+
+1450132580 /home/turupawn/Downloads/Examen2Capybara/NodoBinario.h
+	<iostream>
+
+1450132565 source:/home/turupawn/Downloads/Examen2Capybara/NodoBinario.cpp
+	"NodoBinario.h"
+
+1443111377 source:/home/turupawn/Downloads/Examen2Capybara/NodoTrinario.cpp
+	"NodoTrinario.h"
+
+1443111377 /home/turupawn/Downloads/Examen2Capybara/NodoTrinario.h
+
+1450118390 source:/home/turupawn/Downloads/Examen2Capybara/Pista.cpp
+	"Pista.h"
+
+1450133765 source:/home/turupawn/Downloads/Examen2Capybara/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Pista.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1459382137 source:/home/turupawn/Clases/Examen2Dragon/Evaluador.cpp
+	"Evaluador.h"
+
+1459381133 /home/turupawn/Clases/Examen2Dragon/Evaluador.h
+	"Pais.h"
+	"NodoNario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1450139687 /home/turupawn/Clases/Examen2Dragon/Pista.h
+	<iostream>
+
+1450139687 /home/turupawn/Clases/Examen2Dragon/NodoBinario.h
+	<iostream>
+
+1450139687 source:/home/turupawn/Clases/Examen2Dragon/NodoBinario.cpp
+	"NodoBinario.h"
+
+1450139687 source:/home/turupawn/Clases/Examen2Dragon/Pista.cpp
+	"Pista.h"
+
+1459382111 source:/home/turupawn/Clases/Examen2Dragon/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Pais.h"
+	"Evaluador.h"
+	"NodoNario.h"
+
+1459366369 source:/home/turupawn/Clases/Examen2Dragon/Pais.cpp
+	"Pais.h"
+
+1459366361 /home/turupawn/Clases/Examen2Dragon/Pais.h
+	<iostream>
+
+1459378081 source:/home/turupawn/Clases/Examen2Dragon/NodoNario.cpp
+	"NodoNario.h"
+
+1459378050 /home/turupawn/Clases/Examen2Dragon/NodoNario.h
+	<vector>
+
